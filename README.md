@@ -1,4 +1,4 @@
-# Checksum_App  
+# Checksum_App (with hashlib)
 
 (1) Create checksum file, based on the original file/folder name (user input) + "_checksum.txt"  
 (2) Compare checksum of file/folder specified, with a checksum file.  
